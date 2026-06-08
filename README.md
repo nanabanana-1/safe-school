@@ -29,6 +29,55 @@ O projeto foi desenvolvido para praticar conceitos de Programação Orientada a 
 ✅ Interface gráfica com Java Swing
 
 ---
+## 📋 Requisitos Funcionais
+
+RF01 - O sistema deve permitir o cadastro de denúncias escolares.
+
+RF02 - O sistema deve gerar um protocolo único para cada denúncia.
+
+RF03 - O sistema deve permitir consultar denúncias pelo protocolo.
+
+RF04 - O sistema deve listar todas as denúncias cadastradas.
+
+RF05 - O sistema deve permitir atualizar o status de uma denúncia.
+
+RF06 - O sistema deve permitir encerrar denúncias.
+
+RF07 - O sistema deve permitir registrar diferentes tipos de denúncia.
+
+RF08 - O sistema deve exibir informações detalhadas da denúncia.
+
+RF09 - O sistema deve informar ao usuário quando uma operação for realizada com sucesso.
+
+RF10 - O sistema deve funcionar por meio de interface gráfica.
+
+---
+
+## ⚙️ Requisitos Não Funcionais
+
+RNF01 - O sistema deve ser desenvolvido na linguagem Java.
+
+RNF02 - O sistema deve utilizar Programação Orientada a Objetos.
+
+RNF03 - O sistema deve implementar encapsulamento.
+
+RNF04 - O sistema deve implementar herança.
+
+RNF05 - O sistema deve implementar polimorfismo.
+
+RNF06 - O sistema deve implementar abstração.
+
+RNF07 - O sistema deve utilizar tratamento de exceções.
+
+RNF08 - O sistema não deve utilizar banco de dados.
+
+RNF09 - Os dados devem ser armazenados em memória utilizando ArrayList.
+
+RNF10 - A interface gráfica deve ser desenvolvida com Java Swing.
+
+RNF11 - O sistema deve apresentar mensagens de erro amigáveis ao usuário.
+
+RNF12 - O sistema deve continuar funcionando após erros de entrada, permitindo nova tentativa da operação.
 
 ## 🚨 Tipos de Denúncia
 
