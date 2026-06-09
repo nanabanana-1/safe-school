@@ -194,12 +194,6 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 
 📎 Anexar evidências
 
-📧 Notificações automáticas
-
-🌐 Versão web
-
-📱 Versão mobile
-
 ---
 
 ## 👩‍💻 Desenvolvedora
